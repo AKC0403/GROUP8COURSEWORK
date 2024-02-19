@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello friuends")
+print("Hello friends")
 
